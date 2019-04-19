@@ -1,3 +1,7 @@
-heyy
+<<<<<<< HEAD
+heyy you !!
+=======
+heyy  wtf
+>>>>>>> SanyamDev
 
 
